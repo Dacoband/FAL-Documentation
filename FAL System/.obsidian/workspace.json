@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "967650490a6db0a4",
+        "id": "399a5065c1d4cfbc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5005096e7e5d363",
+            "id": "baa5be441263cf12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -162,10 +166,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1f6d784b682bda7",
+  "active": "baa5be441263cf12",
   "lastOpenFiles": [
-    "LICENSE",
+    "Task 1 - Web Admin.md",
     "README.md",
-    "Welcome.md"
+    "2025-04-01.md",
+    "Tài liệu yêu cầu",
+    "Tài liệu yêu cầu/Yêu cầu người dùng.md",
+    "Tài liệu yêu cầu/Hướng dẫn cài đặt.md",
+    "Tài liệu yêu cầu/Tài liệu kiểm thử.md",
+    "Tài liệu yêu cầu/Triển khai hệ thống.md",
+    "Tài liệu yêu cầu/Thiết kế chi tiết.md",
+    "Tài liệu yêu cầu/Thiết kế kiến trúc.md",
+    "Tài liệu yêu cầu/Thông số yêu cầu phần mềm.md",
+    "Welcome.md",
+    "LICENSE"
   ]
 }
